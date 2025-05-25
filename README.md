@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://github.com/pasmussenv/GAIA/blob/main/assets/img-herramientas-automatizadas/banner-herramientas-v2.png?raw=true" width="100%">
 </p>
-
 Repositorio profesional de scripts Bash para automatización y configuración de entornos en proyectos DevOps.
 
 ## 📁 Estructura del repositorio
