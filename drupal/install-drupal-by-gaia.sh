@@ -89,7 +89,7 @@ echo -e "\033[1;32m✔ Permisos aplicados correctamente.\033[0m"
 echo -e "\033[1;32m✔ Drupal ha sido instalado y preparado correctamente.\033[0m"
 
 # -----------------------------------------------------------------------------
-# Copyright (c) 2025 🐾GAIA
+# Copyright (c) 2025 🫆GAIA
 #
 # Este script está publicado bajo la licencia MIT.
 # Puedes usarlo, modificarlo y compartirlo libremente, siempre que mantengas

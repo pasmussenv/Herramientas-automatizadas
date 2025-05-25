@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/pasmussenv/GAIA/blob/main/assets/img-herramientas-automatizadas/banner-herramientas-automatizadas.png?raw=true" width="100%">
+</p>
 
 Repositorio profesional de scripts Bash para automatización y configuración de entornos en proyectos DevOps.
 
@@ -30,7 +32,7 @@ Todos los scripts de este repositorio están publicados bajo licencia MIT. Consu
 
 ---
 
-**Autor**: Gaia  
+**Autora**: 🫆GAIA  
 **Año**: 2025  
 **Propósito**: Facilitar la vida a quienes trabajamos en infraestructuras DevOps desde el inicio, automatizando tareas repetitivas, evitando errores comunes y ahorrando tiempo.
 Además, este repositorio está pensado como herramienta educativa y de aprendizaje para estudiantes, autodidactas y profesionales junior que quieren mejorar sus habilidades en entornos reales.

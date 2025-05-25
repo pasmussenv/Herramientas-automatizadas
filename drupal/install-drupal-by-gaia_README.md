@@ -1,4 +1,4 @@
-# INSTALACIÓN DRUPAL BY 🐾GAIA
+# INSTALACIÓN DRUPAL BY 🫆GAIA
 
 Script automático para instalar Drupal desde cero en sistemas Linux (como Ubuntu), pensado para entornos locales, educativos o de pruebas.  
 Ha sido diseñado para evitar configuraciones manuales y errores típicos.
@@ -65,5 +65,5 @@ Esto te confirma que todo está listo para comenzar a trabajar con Drupal.
 
 ## 📄 Licencia
 
-Este script ha sido creado por **🐾GAIA** y se publica bajo la licencia **MIT**.
+Este script ha sido creado por **🫆GAIA** y se publica bajo la licencia **MIT**.
 
