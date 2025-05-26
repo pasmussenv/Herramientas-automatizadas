@@ -5,7 +5,7 @@ Ha sido diseñado para evitar configuraciones manuales y errores típicos.
 
 ---
 
-## ✅ ¿Qué hace este script?
+##  ¿Qué hace este script?
 
 - Comprueba si Composer está instalado. Si no, lo instala automáticamente.
 - Comprueba si tienes todas las dependencias PHP necesarias. Si faltan, las instala.
@@ -16,7 +16,7 @@ Ha sido diseñado para evitar configuraciones manuales y errores típicos.
 
 ---
 
-## 🚀 Cómo se usa
+##  Cómo se usa
 
 1. Sitúate en la raíz del proyecto donde quieres instalar Drupal.
 
@@ -43,7 +43,7 @@ El script hará todo por ti:
 
 ---
 
-## 🔍 Verificar que todo está instalado correctamente
+##  Verificar que todo está instalado correctamente
 
 Al finalizar la instalación, puedes comprobar que Composer y PHP se han instalado correctamente ejecutando estos comandos:
 
@@ -63,7 +63,7 @@ Esto te confirma que todo está listo para comenzar a trabajar con Drupal.
 
 ---
 
-## 📄 Licencia
+##  Licencia
 
 Este script ha sido creado por **🫆GAIA** y se publica bajo la licencia **MIT**.
 
